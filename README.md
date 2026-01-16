@@ -68,6 +68,6 @@ This project was developed as part of a B.Tech research initiative at **SRM Univ
 ---
 
 ## 🧑‍💻 Author
-**Karthikeyan K**
+**Karthikeyan Akkapalli**
 * **GitHub**: [@karthikeyan1134](https://github.com/karthikeyan1134)
 * **Affiliation**: SRM University-AP, Computer Science & Engineering (Class of 2026)
